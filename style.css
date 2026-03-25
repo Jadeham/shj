@@ -394,9 +394,9 @@ a { text-decoration: none; color: inherit; }
 }
 
 .skill-card p {
-  font-size: 0.82rem;
+  font-size: 1rem;
   font-weight: 300;
-  color: var(--gray);
+  color: var(--dark-gray);
   line-height: 1.8;
 }
 

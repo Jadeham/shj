@@ -187,8 +187,8 @@ a { text-decoration: none; color: inherit; }
 }
 
 .landing-footer {
-  font-size: 0.92rem;
-  color: var(--dark-gray);
+  font-size: 0.72rem;
+  color: var(--gray);
   letter-spacing: 0.12em;
 }
 

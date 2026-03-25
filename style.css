@@ -12,7 +12,7 @@
   --dark: #2c2825;
   --accent-s: #c9a99a;   /* SEHEE — 로즈 베이지 */
   --accent-h: #9aacb8;   /* HYUNJONG — 스틸 블루 */
-  --font-serif: 'Cormorant Garamond', serif;
+  --font-serif: 'Noto Sans KR', sans-serif;
   --font-sans: 'Noto Sans KR', sans-serif;
   --transition: 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }

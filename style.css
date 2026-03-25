@@ -425,7 +425,7 @@ a { text-decoration: none; color: inherit; }
   font-family: var(--font-serif);
   font-size: 1.8rem;
   font-weight: 300;
-  color: var(--gray-light);
+  color: var(--gray);
   min-width: 48px;
   line-height: 1;
   padding-top: 4px;
@@ -441,9 +441,9 @@ a { text-decoration: none; color: inherit; }
 }
 
 .project-info p {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   font-weight: 300;
-  color: var(--gray);
+  color: var(--dark-gray);
   line-height: 1.8;
   margin-bottom: 16px;
 }

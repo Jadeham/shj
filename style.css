@@ -79,7 +79,7 @@ a { text-decoration: none; color: inherit; }
   margin-top: 16px;
   font-size: 0.85rem;
   font-weight: 300;
-  color: var(--gray);
+  color: var(--dark-gray);
   letter-spacing: 0.1em;
 }
 

@@ -10,6 +10,7 @@
   --gray-light: #e8e4df;
   --gray: #9e9891;
   --dark: #2c2825;
+  --dark-gray: #5a5754;
   --accent-s: #c9a99a;   /* SEHEE — 로즈 베이지 */
   --accent-h: #9aacb8;   /* HYUNJONG — 스틸 블루 */
   --font-serif: 'Noto Sans KR', sans-serif;
@@ -348,9 +349,9 @@ a { text-decoration: none; color: inherit; }
 }
 
 .section-text {
-  font-size: 0.95rem;
+  font-size: 1.15rem;
   font-weight: 300;
-  color: var(--gray);
+  color: var(--dark-gray);
   line-height: 2;
   margin-bottom: 48px;
 }
